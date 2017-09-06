@@ -31,7 +31,9 @@ See `Code of Conduct.md` for details.
 
 To install this template rename the `template.config` directory to `.template.config`, then run the following command
 
-    dotnet new --install FullStackTemplate
+    dotnet new --install FullStackTemplate/
+
+Note: the trailing '/' is important.
 
 To confirm that the new template was installed, run the following command
 
