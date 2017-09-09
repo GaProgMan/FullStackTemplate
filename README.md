@@ -29,7 +29,7 @@ See `Code of Conduct.md` for details.
 
 ### Using This Template
 
-To install this template rename the `template.config` directory to `.template.config`, then run the following command
+To install this template rename the `template.config` directory to `.template.config`, then run the following command from the directory above the cloned repo
 
     dotnet new --install FullStackTemplate/
 
